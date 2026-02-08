@@ -169,7 +169,7 @@ Interactive Filters:
 ## 🔗 Live Dashboard
 
 👉 **View Dashboard Here:**
-[Insert Tableau Public URL Here]
+https://public.tableau.com/app/profile/abhivardhan.reddy.gopu5555/viz/OperationalKPIsDashboardwithTableau/Dashboard1?publish=yes
 
 ---
 
@@ -191,18 +191,3 @@ This project demonstrates competency in:
 * Executive dashboard design
 
 ---
-
-## 👤 Author
-
-**[Your Name]**
-Business Analyst Candidate
-
----
-
-If you want, I can now:
-
-* Make it sound more technical (for analytics-heavy companies)
-* Or more business-oriented (for consulting/startups)
-* Or help you prepare how to explain this project in the interview in 90 seconds
-
-Let’s polish the final impression. 🚀
